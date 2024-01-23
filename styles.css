@@ -9,13 +9,13 @@ body {
 header {
   background-color: #333;
   color: #fff;
-  padding: 20px;
+  padding: 20;
 }
 
 /* Navigation styles */
 nav {
   background-color: #f4f4f4;
-  padding: 10px;
+  padding: 10;
 }
 
 nav ul {
@@ -26,13 +26,13 @@ nav ul {
 
 nav ul li {
   display: inline;
-  margin-right: 10px;
+  margin-right: 10;
 }
 
 nav ul li a {
   text-decoration: none;
   color: #333;
-  padding: 5px;
+  padding: 5;
 }
 
 nav ul li a:hover {
@@ -42,11 +42,11 @@ nav ul li a:hover {
 
 /* Main content styles */
 main {
-  padding: 20px;
+  padding: 20;
 }
 
 section {
-  margin-bottom: 30px;
+  margin-bottom: 30;
 }
 
 h2 {
@@ -57,39 +57,39 @@ h2 {
 .success-story {
   display: flex;
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 20;
 }
 
 .success-story img {
   width: 150px;
-  margin-right: 20px;
+  margin-right: 20;
 }
 
 /* Footer styles */
 footer {
   background-color: #333;
   color: #fff;
-  padding: 20px;
+  padding: 20;
   text-align: center;
 }
 
 /* Responsive styles */
-@media screen and (max-width: 600px) {
+ screen  (max-width: 600) {
   /* Adjust header */
   header {
-    padding: 10px;
-    font-size: 24px;
+    padding: 10;
+    font-size: 24;
   }
 
   /* Adjust navigation */
   nav ul li {
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 10;
   }
 
   /* Adjust success stories */
   .success-story img {
-    width: 100px;
-    margin-right: 10px;
+    width: 100;
+    margin-right: 10;
   }
 }
