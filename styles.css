@@ -18,23 +18,23 @@ header {
 
 button {
   background-color: #4CAF50; /* Use your preferred color */
-  color: white; /* Set the text color to contrast with the background */
+  color: rgb(235, 0, 0); /* Set the text color to contrast with the background */
 }
 
 button {
-  padding: 10px 20px; /* Adjust the values as needed */
-  margin: 5px; /* Adjust the values as needed */
+  padding: 10 20; /* Adjust the values as needed */
+  margin: 5; /* Adjust the values as needed */
 }
 
 button {
   border: none; /* Remove the default border */
-  border-radius: 4px; /* Optionally, round the corners */
+  border-radius: 4; /* Optionally, round the corners */
 }
 
 button:hover {
-  background-color: #45a049; /* Use a slightly different color on hover */
+  background-color: #00ff0d; /* Use a slightly different color on hover */
 }
 
 button:active {
-  background-color: #3e8e41; /* Use a different color on click */
+  background-color: #00ff08; /* Use a different color on click */
 }
