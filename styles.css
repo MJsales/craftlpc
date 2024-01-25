@@ -36,7 +36,7 @@ button {
   color: #886ac2; /* Set the text color to contrast with the background */
   display: flex;
   justify-content: center;
-  justify-content: space-between;
+  
 }
 
 button {
@@ -44,7 +44,6 @@ button {
   margin: 5px; /* Adjust the values as needed */
   display: flex;
   justify-content: center;
-  justify-content: space-between;
 }
 
 button {
@@ -52,21 +51,18 @@ button {
   border-radius: 4px; /* Optionally, round the corners */
   display: flex;
   justify-content: center;
-  justify-content: space-between;
 }
 
 button:hover {
   background-color: #7bfe1d; /* Use a slightly different color on hover */
   display: flex;
   justify-content: center;
-  justify-content: space-between;
 }
 
 button:active {
   background-color: #fefa1d; /* Use a different color on click */
   display: flex;
   justify-content: center;
-  justify-content: space-between;
 }
 
 .styled-button {
@@ -86,21 +82,18 @@ button:active {
   transition: background-color 0.3 ease;
   display: flex;
   justify-content: center;
-  justify-content: space-between;
 }
 
 .styled-button:hover {
   background-color: #fe1d1d;
   display: flex;
   justify-content: center;
-  justify-content: space-between;
 }
 
 .styled-button:active {
   background-color: #1dfe5d;
   display: flex;
   justify-content: center;
-  justify-content: space-between;
 }
 
 
@@ -108,7 +101,6 @@ button:active {
 .styled-button {
   display: flex;
   justify-content: center;
-  justify-content: space-between;
   align-items: center;
   height: 10vh; /* Set the container height to full viewport height */
   width: 10px
@@ -121,14 +113,12 @@ button:active {
   background-color: #681dfe;
   display: flex;
   justify-content: center;
-  justify-content: space-between;
 }
 
 .styled-button:active {
   background-color: #e41dfe;
   display: flex;
   justify-content: center;
-  justify-content: space-between;
 }
 
 
@@ -139,7 +129,6 @@ button:active {
 nav {
   display: flex;
   justify-content: center;
-  justify-content: space-between;
 }
 
 nav ul {
@@ -147,7 +136,6 @@ nav ul {
   padding: 0;
   display: flex;
   justify-content: center;
-  justify-content: space-between;
 }
 
 nav li {
