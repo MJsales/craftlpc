@@ -1,16 +1,16 @@
 /* Add your styles here */
 h1 {
-  color: #e41dfe;
+  color: #82fe1d;
 }
 
 p {
-  color: #e41dfe; /* You can also use hexadecimal color codes */
+  color: #1dfef3; /* You can also use hexadecimal color codes */
 }
 
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #e41dfe;
+  background-color: #fe1d1d;
   margin: 0px;
   padding: 0px;
   
@@ -26,7 +26,7 @@ header {
 }
 
 button {
-  background-color: #e41dfe; /* Use your preferred color */
+  background-color: #1d4afe; /* Use your preferred color */
   color: #e41dfe; /* Set the text color to contrast with the background */
 }
 
