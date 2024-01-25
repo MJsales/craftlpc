@@ -84,7 +84,7 @@ button:active {
 
 
 
-.display: flex;
+.styled-button
   justify-content: center;
   align-items: center;
   height: 100%; /* Adjust the height if needed */
