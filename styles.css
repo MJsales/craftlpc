@@ -54,7 +54,7 @@ button {
 }
 
 .button {
-  margin-right: 100px; /* Adjust the value to increase or decrease the spacing */
+  margin-right: 1000px; /* Adjust the value to increase or decrease the spacing */
 }
 
 button:hover {
