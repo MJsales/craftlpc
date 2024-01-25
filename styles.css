@@ -1,14 +1,11 @@
 /* Add your styles here */
 h1 {
   color: #4000ff;
-  display: flex;
-  justify-content: center;
+  
 }
 
 p {
   color: #64bdb9; /* You can also use hexadecimal color codes */
-  display: flex;
-  justify-content: center;
 }
 
 
@@ -18,22 +15,20 @@ body {
   background-color: #4e0956;
   margin: 0px;
   padding: 0px;
-  display: flex;
-  justify-content: center;
+  
   
 }
 
 header, nav, main, footer {
   padding: 20;
   display: flex;
-  justify-content: center;
+  justify-content: center;  /*might delete */
 }
 
 header {
   background-color: #333;
   color: #fff;
-  display: flex;
-  justify-content: center;
+  
 }
 
 button {
