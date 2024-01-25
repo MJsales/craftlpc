@@ -53,6 +53,10 @@ button {
   justify-content: center;
 }
 
+.button {
+  margin-right: 100px; /* Adjust the value to increase or decrease the spacing */
+}
+
 button:hover {
   background-color: #7bfe1d; /* Use a slightly different color on hover */
   display: flex;
