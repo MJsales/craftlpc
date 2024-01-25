@@ -2,7 +2,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #000000;
+  background-color: #e41dfe;
   margin: 0;
   padding: 0;
 }
@@ -18,7 +18,7 @@ header {
 
 button {
   background-color: #e41dfe; /* Use your preferred color */
-  color: rgb(0, 0, 0); /* Set the text color to contrast with the background */
+  color: #e41dfe; /* Set the text color to contrast with the background */
 }
 
 button {
