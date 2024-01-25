@@ -27,7 +27,7 @@ header {
 
 button {
   background-color: #1d4afe; /* Use your preferred color */
-  color: #e41dfe; /* Set the text color to contrast with the background */
+  color: #1ddcfe; /* Set the text color to contrast with the background */
 }
 
 button {
@@ -41,11 +41,11 @@ button {
 }
 
 button:hover {
-  background-color: #e41dfe; /* Use a slightly different color on hover */
+  background-color: #7bfe1d; /* Use a slightly different color on hover */
 }
 
 button:active {
-  background-color: #e41dfe; /* Use a different color on click */
+  background-color: #fefa1d; /* Use a different color on click */
 }
 
 .styled-button {
@@ -58,19 +58,19 @@ button:active {
   white-space: nowrap;
   border-radius: 4px;
   border: none;
-  background-color: #e41dfe;
+  background-color: #4800ff75;
   color: #fff;
   cursor: pointer;
-  box-shadow: 0px 2px 4px #e41dfe;
+  box-shadow: 0px 2px 4px #ff5e00;
   transition: background-color 0.3 ease;
 }
 
 .styled-button:hover {
-  background-color: #e41dfe;
+  background-color: #fe1d1d;
 }
 
 .styled-button:active {
-  background-color: #e41dfe;
+  background-color: #1dfe5d;
 }
 
 
@@ -88,14 +88,14 @@ button:active {
   white-space: nowrap;
   border-radius: 4px;
   border: none;
-  background-color: #e41dfe;
+  background-color: #1dfecd;
   color: #fff;
-  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 2px 4px rgb(252, 2, 2);
   transition: background-color 0.3s ease;
 }
 
 .styled-button:hover {
-  background-color: #e41dfe;
+  background-color: #681dfe;
 }
 
 .styled-button:active {
