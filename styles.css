@@ -53,8 +53,9 @@ button {
   justify-content: center;
 }
 
-.button {
+nav li {
   margin-right: 1000px; /* Adjust the value to increase or decrease the spacing */
+  display: inline-block;
 }
 
 button:hover {
