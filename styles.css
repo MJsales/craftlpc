@@ -54,27 +54,27 @@ button {
 }
 
 nav li {
-  margin-right: 1000px; /* Adjust the value to increase or decrease the spacing */
+  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
   display: inline-block;
 }
 
 nav {
-  margin-right: 1000px; /* Adjust the value to increase or decrease the spacing */
+  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
   display: inline-block;
 }
 
 ul {
-  margin-right: 1000px; /* Adjust the value to increase or decrease the spacing */
+  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
   display: inline-block;
 }
 
 .nav  {
-  margin-right: 1000px; /* Adjust the value to increase or decrease the spacing */
+  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
   display: inline-block;
 }
 
 .ul{
-  margin-right: 1000px; /* Adjust the value to increase or decrease the spacing */
+  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
   display: inline-block;
 }
 
