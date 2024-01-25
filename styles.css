@@ -2,7 +2,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #bebebe;
+  background-color: #000000;
   margin: 0;
   padding: 0;
 }
@@ -35,6 +35,36 @@ button:hover {
   background-color: #e41dfe; /* Use a slightly different color on hover */
 }
 
+button:active {
+  background-color: #e41dfe; /* Use a different color on click */
+}
+
+.styled-button {
+  display: inline-block;
+  padding: 12 24;
+  font-size: 16;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  border-radius: 4;
+  border: none;
+  background-color: #e41dfe;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 2 4 rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3 ease;
+}
+
+.styled-button:hover {
+  background-color: #e41dfe;
+}
+
+.styled-button:active {
+  background-color: #e41dfe;
+}
+
+
 
 
 
@@ -50,7 +80,7 @@ button:hover {
   border-radius: 4;
   border: none;
   background-color: #e41dfe;
-  color: #000000;
+  color: #fff;
   box-shadow: 0 2 4 rgba(0, 0, 0, 0.2);
   transition: background-color 0.3s ease;
 }
