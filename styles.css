@@ -80,6 +80,7 @@ button:active {
   justify-content: center;
   align-items: center;
   height: 10vh; /* Set the container height to full viewport height */
+  width: 10px
 }
 
 
