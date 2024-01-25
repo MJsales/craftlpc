@@ -79,7 +79,7 @@ button:active {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Set the container height to full viewport height */
+  height: 10vh; /* Set the container height to full viewport height */
 }
 
 
@@ -87,7 +87,7 @@ button:active {
 .styled-button
   justify-content: center;
   align-items: center;
-  height: 100%; /* Adjust the height if needed */
+  height: 10%; /* Adjust the height if needed */
 
 
 
