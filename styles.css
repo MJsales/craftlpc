@@ -53,30 +53,6 @@ button {
   justify-content: center;
 }
 
-nav li {
-  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
-  display: inline-block;
-}
-
-nav {
-  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
-  display: inline-block;
-}
-
-ul {
-  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
-  display: inline-block;
-}
-
-.nav  {
-  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
-  display: inline-block;
-}
-
-.ul{
-  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
-  display: inline-block;
-}
 
 button:hover {
   background-color: #7bfe1d; /* Use a slightly different color on hover */
