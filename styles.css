@@ -3,8 +3,8 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #e41dfe;
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
 }
 
 header, nav, main, footer {
@@ -23,7 +23,7 @@ button {
 
 button {
   padding: 10px 20px; /* Adjust the values as needed */
-  margin: 5; /* Adjust the values as needed */
+  margin: 5px; /* Adjust the values as needed */
 }
 
 button {
