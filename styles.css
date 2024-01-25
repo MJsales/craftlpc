@@ -1,16 +1,16 @@
 /* Add your styles here */
 h1 {
-  color: #82fe1d;
+  color: #4000ff;
 }
 
 p {
-  color: #1dfef3; /* You can also use hexadecimal color codes */
+  color: #64bdb9; /* You can also use hexadecimal color codes */
 }
 
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #fe1d1d;
+  background-color: #4e0956;
   margin: 0px;
   padding: 0px;
   
@@ -27,7 +27,7 @@ header {
 
 button {
   background-color: #1d4afe; /* Use your preferred color */
-  color: #1ddcfe; /* Set the text color to contrast with the background */
+  color: #886ac2; /* Set the text color to contrast with the background */
 }
 
 button {
@@ -75,7 +75,16 @@ button:active {
 
 
 
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Set the container height to full viewport height */
+}
 
+button {
+  /* Add any additional styling you need for your buttons */
+}
 
 
 .styled-button {
