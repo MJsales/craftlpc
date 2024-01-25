@@ -1,10 +1,19 @@
 /* Add your styles here */
+h1 {
+  color: #e41dfe;
+}
+
+p {
+  color: #e41dfe; /* You can also use hexadecimal color codes */
+}
+
 
 body {
   font-family: Arial, sans-serif;
   background-color: #e41dfe;
   margin: 0px;
   padding: 0px;
+  
 }
 
 header, nav, main, footer {
@@ -52,7 +61,7 @@ button:active {
   background-color: #e41dfe;
   color: #fff;
   cursor: pointer;
-  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 2px 4px #e41dfe;
   transition: background-color 0.3 ease;
 }
 
