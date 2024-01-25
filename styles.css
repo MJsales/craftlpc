@@ -77,8 +77,8 @@ button:active {
 
 .styled-button {
   display: flex;
-  justify-content: space-around;
-  align-items: space-around;
+  justify-content: center;
+  align-items: center;
   height: 10vh; /* Set the container height to full viewport height */
   width: 10px
 }
