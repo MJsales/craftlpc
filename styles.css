@@ -110,3 +110,19 @@ button {
 .styled-button:active {
   background-color: #e41dfe;
 }
+
+
+
+
+
+
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container {
+  text-align: center;
+}
