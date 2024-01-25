@@ -82,9 +82,7 @@ button:active {
   height: 100vh; /* Set the container height to full viewport height */
 }
 
-button {
-  /* Add any additional styling you need for your buttons */
-}
+
 
 
 .styled-button {
@@ -116,13 +114,3 @@ button {
 
 
 
-
-.button-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.button-container {
-  text-align: center;
-}
