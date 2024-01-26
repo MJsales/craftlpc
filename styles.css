@@ -97,31 +97,16 @@ button:active {
   justify-content: center;
 }
 
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
 nav li {
-  margin-right: 100px; /* Adjust the value to increase or decrease the spacing */
-  display: inline-block;
+  margin-right: 30px; /* Adjust the value to increase or decrease the spacing */
 }
-
-nav {
-  margin-right: 100px; /* Adjust the value to increase or decrease the spacing */
-  display: inline-block;
-}
-
-ul {
-  margin-right: 100px; /* Adjust the value to increase or decrease the spacing */
-  display: inline-block;
-}
-
-.nav  {
-  margin-right: 100px; /* Adjust the value to increase or decrease the spacing */
-  display: inline-block;
-}
-
-.ul{
-  margin-right: 100px; /* Adjust the value to increase or decrease the spacing */
-  display: inline-block;
-}
-
 
 .styled-button {
   display: flex;
