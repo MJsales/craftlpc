@@ -98,27 +98,27 @@ button:active {
 }
 
 nav li {
-  margin-right: 5000px; /* Adjust the value to increase or decrease the spacing */
+  margin-right: 100px; /* Adjust the value to increase or decrease the spacing */
   display: inline-block;
 }
 
 nav {
-  margin-right: 5000px; /* Adjust the value to increase or decrease the spacing */
+  margin-right: 100px; /* Adjust the value to increase or decrease the spacing */
   display: inline-block;
 }
 
 ul {
-  margin-right: 5000px; /* Adjust the value to increase or decrease the spacing */
+  margin-right: 100px; /* Adjust the value to increase or decrease the spacing */
   display: inline-block;
 }
 
 .nav  {
-  margin-right: 5000px; /* Adjust the value to increase or decrease the spacing */
+  margin-right: 100px; /* Adjust the value to increase or decrease the spacing */
   display: inline-block;
 }
 
 .ul{
-  margin-right: 5000px; /* Adjust the value to increase or decrease the spacing */
+  margin-right: 100px; /* Adjust the value to increase or decrease the spacing */
   display: inline-block;
 }
 
