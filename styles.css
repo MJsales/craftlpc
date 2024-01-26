@@ -97,6 +97,30 @@ button:active {
   justify-content: center;
 }
 
+nav li {
+  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
+  display: inline-block;
+}
+
+nav {
+  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
+  display: inline-block;
+}
+
+ul {
+  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
+  display: inline-block;
+}
+
+.nav  {
+  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
+  display: inline-block;
+}
+
+.ul{
+  margin-right: 10px; /* Adjust the value to increase or decrease the spacing */
+  display: inline-block;
+}
 
 
 .styled-button {
