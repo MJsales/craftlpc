@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +12,9 @@
       margin: 0;
       padding: 0;
       background-color: #444;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
     }
 
     header {
@@ -28,21 +30,15 @@
     }
 
     main {
-      padding: 200px;
-      width: 200px;
-      text-align: right;
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
       background-color: #333;
-      box-shadow: 0 0 10px #ffffff);
+      box-shadow: 0 0 10px #ffffff;
+      padding: 40px;
     }
 
-    footer {
-      background-color: #444;
-      color: #ffffff;
-      padding: 20px;
-      text-align: center;
-    }
-
-    /* Donation section styles */
     .donation-section {
       text-align: center;
     }
@@ -69,6 +65,13 @@
 
     .donation-button:hover {
       background-color: #16a085;
+    }
+
+    footer {
+      background-color: #444;
+      color: #ffffff;
+      padding: 20px;
+      text-align: center;
     }
   </style>
 </head>
