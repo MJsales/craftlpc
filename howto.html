@@ -68,6 +68,17 @@
       background-color: #16a085;
     }
 
+    .video-container {
+      width: 100%;
+      max-width: 800px;
+      margin-top: 30px;
+    }
+
+    .video-container video {
+      width: 100%;
+      height: auto;
+    }
+
     footer {
       background-color: #444;
       color: #ffffff;
@@ -89,7 +100,12 @@
     <section class="donation-section">
       <h2>How To Play On Console</h2>
       <p>If you play On cousole watch this video or follow picutes</p>
-   
+      <div class="video-container">
+        <video controls>
+          <source src="howto.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
     </section>
   </main>
 
